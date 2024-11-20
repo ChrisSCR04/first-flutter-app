@@ -1,16 +1,9 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
+# Playground testing for Flutter application
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources used to learn the basics:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial](https://www.youtube.com/watch?v=VPvVD8t02U8)
+- [Aprendiendo Flutter desde Cero para creación de Aplicaciones Móvil Nativas](https://www.youtube.com/watch?v=2uZjsHFob5s&t=2149s&pp=ygUPbWlkdWRldiBmbHV0dGVy)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
